@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SCPUV</string>
+    <string name="aula_107">Aula 107</string>
+    <string name="aula_104">Aula 104</string>
+    <string name="aula_5">Aula 5</string>
+    <string name="aula_f103">Aula F103</string>
+    <string name="aula_6">Aula 6</string>
+    <string name="aula_108">Aula 108</string>
+    <string name="aula_112">Aula 112</string>
+    <string name="aula_2">Aula 2</string>
+    <string name="aula_113">Aula 113</string>
+    <string name="aula_111">Aula 111</string>
+    <string name="aula_4">Aula 4</string>
+    <string name="aula_102">Aula 102</string>
+    <string name="aula_3">Aula 3</string>
+    <string name="aula_f102">Aula F102</string>
+    <string name="aula_f101">Aula F101</string>
+    <string name="aula_106">Aula 106</string>
+    <string name="aula_103">Aula 103</string>
+    <string name="aula_105">Aula 105</string>
+</resources>
